@@ -32,6 +32,24 @@
         font-size: 45px;
         line-height: 45px;
     }
+    .text-bg2 h1 {
+        padding-top: 0px;
+        font-size: 45px;
+        line-height: 70px;
+    }
+    .text-bg2 span {
+        font-size: 45px;
+        line-height: 45px;
+    }
+    .text-bg3 h1 {
+        padding-top: 0px;
+        font-size: 45px;
+        line-height: 70px;
+    }
+    .text-bg3 span {
+        font-size: 45px;
+        line-height: 45px;
+    }
     .banner_main {
         min-height: 600px;
     }
@@ -72,6 +90,33 @@
         padding-left: 0;
     }
     .text-bg span {
+        font-size: 33px;
+        line-height: 40px;
+    }
+    .text-bg2 h1 {
+        font-size: 33px;
+        line-height: 40px;
+        padding-bottom: 10px;
+    }
+    .text-bg2 span {
+        font-size: 33px;
+        line-height: 40px;
+    }
+    .text-bg3 h1 {
+        font-size: 33px;
+        line-height: 40px;
+        padding-bottom: 10px;
+    }
+    .text-bg3 span {
+        font-size: 33px;
+        line-height: 40px;
+    }
+    .text-bg4 h1 {
+        font-size: 33px;
+        line-height: 40px;
+        padding-bottom: 10px;
+    }
+    .text-bg4 span {
         font-size: 33px;
         line-height: 40px;
     }
@@ -166,6 +211,33 @@
         padding-left: 0;
     }
     .text-bg span {
+        font-size: 26px;
+        line-height: 35px;
+    }
+    .text-bg2 h1 {
+        font-size: 26px;
+        line-height: 35px;
+        padding-bottom: 20px;
+    }
+    .text-bg2 span {
+        font-size: 26px;
+        line-height: 35px;
+    }
+    .text-bg3 h1 {
+        font-size: 26px;
+        line-height: 35px;
+        padding-bottom: 20px;
+    }
+    .text-bg3 span {
+        font-size: 26px;
+        line-height: 35px;
+    }
+    .text-bg4 h1 {
+        font-size: 26px;
+        line-height: 35px;
+        padding-bottom: 20px;
+    }
+    .text-bg4 span {
         font-size: 26px;
         line-height: 35px;
     }
